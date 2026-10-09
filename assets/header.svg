@@ -1,28 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">catsu-byte</title>
-  <desc id="desc">Dark terminal-style banner with green accents and the text build, learn, repeat.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">catsu-byte — hands almost touching</title>
+  <desc id="desc">Terminal-inspired ASCII artwork of two mirrored hands, each extending two fingers toward the center.</desc>
 
-  <rect width="1200" height="300" rx="24" fill="#0d1117"/>
+  <rect width="1200" height="380" rx="24" fill="#0d1117"/>
 
-  <g opacity="0.28" stroke="#2ea043" stroke-width="1">
-    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
-    <path d="M60 0V300M120 0V300M180 0V300M240 0V300M300 0V300M360 0V300M420 0V300M480 0V300M540 0V300M600 0V300M660 0V300M720 0V300M780 0V300M840 0V300M900 0V300M960 0V300M1020 0V300M1080 0V300M1140 0V300"/>
+  <g opacity="0.22" stroke="#238636" stroke-width="1">
+    <path d="M0 76H1200M0 152H1200M0 228H1200M0 304H1200"/>
+    <path d="M60 0V380M120 0V380M180 0V380M240 0V380M300 0V380M360 0V380M420 0V380M480 0V380M540 0V380M600 0V380M660 0V380M720 0V380M780 0V380M840 0V380M900 0V380M960 0V380M1020 0V380M1080 0V380M1140 0V380"/>
   </g>
 
-  <g transform="translate(82 70)" fill="#39d353">
-    <rect x="0" y="24" width="18" height="18" rx="3"/>
-    <rect x="24" y="0" width="18" height="18" rx="3"/>
-    <rect x="24" y="48" width="18" height="18" rx="3"/>
-    <rect x="48" y="24" width="18" height="18" rx="3"/>
-    <rect x="72" y="24" width="18" height="18" rx="3" opacity="0.72"/>
-    <rect x="96" y="24" width="18" height="18" rx="3" opacity="0.46"/>
-  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace">
+    <text x="66" y="58" fill="#39d353" font-size="24" font-weight="700">catsu-byte</text>
+    <text x="1134" y="58" fill="#8b949e" font-size="14" text-anchor="end" letter-spacing="3">BUILD / TEST / SHIP</text>
 
-  <text x="82" y="196" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="68" font-weight="700">catsu-byte</text>
-  <text x="86" y="242" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" letter-spacing="3">PRACTICAL SOFTWARE, BUILT WITH CARE</text>
+    <text x="600" y="126" fill="#f0f6fc" font-size="17" text-anchor="middle" xml:space="preserve">
+      <tspan x="600" dy="0">╭──────────╮                                            ╭──────────╮</tspan>
+      <tspan x="600" dy="38">│  ╲        ╲────────────────╮  ╭────────────────╱        ╱  │</tspan>
+      <tspan x="600" dy="38">│   ╲________╲───────────────╯  ╰───────────────╱________╱   │</tspan>
+      <tspan x="600" dy="38">│   ╱________╱─────────────╮      ╭─────────────╲________╲   │</tspan>
+      <tspan x="600" dy="38">│  ╱        ╱──────────────╯      ╰──────────────╲        ╲  │</tspan>
+      <tspan x="600" dy="38">╰──────────╯                                            ╰──────────╯</tspan>
+    </text>
 
-  <g transform="translate(1010 83)" fill="none" stroke="#39d353" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M12 65V30L38 8l22 24h35l22-24 26 22v72c0 31-25 56-56 56H68c-31 0-56-25-56-56Z"/>
-    <path d="M53 83h1M101 83h1M67 112c10 8 21 8 31 0"/>
+    <circle cx="590" cy="163" r="3.5" fill="#39d353"/>
+    <circle cx="610" cy="163" r="3.5" fill="#39d353"/>
+    <text x="600" y="345" fill="#8b949e" font-size="14" text-anchor="middle" letter-spacing="4">PRACTICAL SOFTWARE, BUILT WITH CARE</text>
   </g>
 </svg>
