@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg?v=e2b6628" width="100%" alt="catsu-byte — detailed ASCII hands almost touching" />
+  <img src="./assets/ascii-hands-v2.png" width="100%" alt="Two clean ASCII-art hands almost touching" />
 </div>
 
 ## Building small, useful software
