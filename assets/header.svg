@@ -19,7 +19,7 @@
   </g>
 
   <text x="82" y="196" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="68" font-weight="700">catsu-byte</text>
-  <text x="86" y="242" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" letter-spacing="3">BUILD  /  LEARN  /  REPEAT</text>
+  <text x="86" y="242" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24" letter-spacing="3">PRACTICAL SOFTWARE, BUILT WITH CARE</text>
 
   <g transform="translate(1010 83)" fill="none" stroke="#39d353" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
     <path d="M12 65V30L38 8l22 24h35l22-24 26 22v72c0 31-25 56-56 56H68c-31 0-56-25-56-56Z"/>
